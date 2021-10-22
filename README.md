@@ -65,3 +65,8 @@ SVM Hyper Parameter Tuning : GridSearch
 Final SVM Training run
 
 # **Conclusions**
+
+# Contributing Team Members
+
+Arunesh Tamboli
+Rohit Bhadauria
