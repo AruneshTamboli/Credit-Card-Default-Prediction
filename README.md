@@ -66,6 +66,8 @@ Final SVM Training run
 
 # **Conclusions**
 
+Random Forest is the best model for card card default prediciton with an accuracy of 83%. XGBoost also performed well.
+
 # Contributing Team Members
 
 **Arunesh Tamboli**
