@@ -68,5 +68,6 @@ Final SVM Training run
 
 # Contributing Team Members
 
-Arunesh Tamboli
-Rohit Bhadauria
+**Arunesh Tamboli**
+
+**Rohit Bhadauria**
