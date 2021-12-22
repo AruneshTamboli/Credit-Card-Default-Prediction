@@ -1,7 +1,7 @@
 # AlmaBetter Capstone Project 3 - Classification : Credit-Card-Default-Prediction
-This project is a part of the AlmaBetter Premium Program , Banglore/Bengaluru ,Karnataka , India
+This project is a part of the **AlmaBetter Premium Program** , Banglore/Bengaluru ,Karnataka , India
 
--- Project Status: [Completed]
+Project Status: **[Completed]**
 
 ![1_uZyt9Z189siaNsAlIDtjEg](https://user-images.githubusercontent.com/88345564/147155410-6462b88e-ebf4-4558-98d6-75d9bc6c7d06.jpeg)
 
@@ -21,12 +21,11 @@ When you accept a credit card, you agree to certain terms. For example, you agre
 * Clean data to get it ready for Analysis
 * EDA & Data Pre-processing
 
-
 -- Checking distributions of variable
 
 -- Univariate and multivariate analysis
 
--- Checking for imbalanced dataset
+-- Checking for imbalanced dataset. We have used **SMOTE** here.
 
 * Modelling (Implementing Machine Learning Algorithms)
 1. Logistic
