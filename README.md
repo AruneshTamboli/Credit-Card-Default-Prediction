@@ -20,11 +20,13 @@ When you accept a credit card, you agree to certain terms. For example, you agre
 * Exploring data, checking for outliers
 * Clean data to get it ready for Analysis
 * EDA & Data Pre-processing
-Checking distributions of variable
 
-Univariate and multivariate analysis
 
-Checking for imbalanced dataset
+-- Checking distributions of variable
+
+-- Univariate and multivariate analysis
+
+-- Checking for imbalanced dataset
 
 * Modelling (Implementing Machine Learning Algorithms)
 1. Logistic
@@ -88,11 +90,8 @@ SVM Hyper Parameter Tuning : GridSearch
 
 Final SVM Training run
 
+
 ## **Conclusions**
-
-Random Forest is the best model for card card default prediciton with an accuracy of 83%. XGBoost also performed well.
-
-
 
 We investigated the data, checking for data unbalancing, visualizing the features, and understanding the relationship between different features. We then investigated two predictive models. The data was split into three parts, a train set, a validation set, and a test set. For the first three models, we only used the train and test set.
 
